@@ -1,4 +1,4 @@
-# excel-data-cleaning-project
+
 # Data Cleaning and Preparation in Microsoft Excel
 
 ## Project Overview
