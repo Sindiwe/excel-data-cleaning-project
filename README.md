@@ -76,13 +76,11 @@ The final dataset is:
 * Raw Dataset
 * Cleaned Dataset
 * Project Report (PDF)
-* Screenshots of Cleaning Process
+
 
 ## Key Takeaway
 
 Data cleaning is a critical step in the data analytics process. This project highlights the importance of ensuring data accuracy, consistency, and reliability before conducting any analysis or visualization.
 
----
 
-**Author:** Sindiwe Rana
-**Career Path:** Data Analytics | AI | Excel | Power BI | SQL | Python
+
